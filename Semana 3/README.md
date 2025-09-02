@@ -1,4 +1,4 @@
-Evaluación semana 3 construcción de una aplicación de despacho.
+Evaluación semana 3 construcción de una aplicación de despacho utilizando lenguaje JAVA.
 
 Objetivos:
 
