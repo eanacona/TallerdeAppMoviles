@@ -33,6 +33,7 @@ Requerimientos funcionales:
 Requerimientos no funcionales:
 
 -Elaboración de documentación necesaria para su posterior revisión.
+
 -Código comentado para su posterior revisión y análisis.
 
 
