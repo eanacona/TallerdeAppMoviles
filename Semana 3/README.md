@@ -13,7 +13,9 @@ Requerimientos funcionales:
 - Según la documentación del caso presentado en la evaluación se requiere de un programa que solicite al usuario los siguiente:
 
 1.- Datos iniciales de: Nombre, edad y email.
+
 2.- Datos del vehículo: Marca, modelo, cilindrada, tipo de combustible, capacidad de pasajeros.
+
 3.- Datos que permitan calcular el valor final de la compra: Distancia del despacho y valor de la compra.
 
 - Con estos últimos datos el programa debe ser capaz de calcular los valores de despacho, donde el tope máximo para realizar un despacho es de 20km, por lo que el programa debe
