@@ -24,7 +24,9 @@ Requerimientos funcionales:
 - Para la realización del cálculo se debe regir por las siguientes reglas:
 
 1.- Despacho con un valor superior a 50.000 el cobro por envío es gratis.
+
 2.- Despacho con un valor dentro del rango de 25.000 hasta 49.999, el valor de envío equivale a 150 por km recorrido.
+
 3.- Despacho por un valor dentro del rango de 1 a 24.999, el valor del envío equivale a 300 por km recorrido.
 
   
