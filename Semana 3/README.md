@@ -45,19 +45,27 @@ Historia de usuarios:
 Pasos realizados para la concreción del proyecto:
 
 1.- Se declara el uso de scanner en el código para poder permitir el uso del teclado como input válido para la ejecución del programa.
+
 2.- Se declaran las variables que serán usadas por el sistema durante el funcionamiento del programa.
+
 3.- Se definen las operaciones matemáticas que permitirán obtener los resultados y los requerimientos para esto son:
     
     Para valores > o = a 50.000: Total = Valor digitado.
     Para valores entre el rango de 25.000 a 49.999: Total = Valor + (Distancia * 150).
     Para valores entre el rango de 1 a 24.999: Total = Valor + (Distancia * 300).
 
+
 4.- Se define la primera condición, si la distancia de despacho es superior a 20Km, no se puede realizar despacho.
+
 5.- Si la distancia está dentro de los rangos establecidos el sistema se codifico de tal forma que este entre los inputs solicitados
     según los requerimientos, más el total final de la compra.
+
 6.- Se realizaron los comentarios a las partes del código.
+
 7.- Se procedió a realizar la compilación.
+
 8.- Se probó y documento los resultados del trabajo.
+
 9.- Se genero informe final.
 
     
