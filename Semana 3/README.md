@@ -60,7 +60,7 @@ Pasos realizados para la concreción del proyecto:
 
 4.- Se define la primera condición, si la distancia de despacho es superior a 20Km, no se puede realizar despacho.
 
-5.- Si la distancia está dentro de los rangos establecidos el sistema se codifico de tal forma que este entre los inputs solicitados
+5.- Si la distancia está dentro de los rangos establecidos el sistema se codifico de tal forma que este entregue los inputs solicitados
     según los requerimientos, más el total final de la compra.
 
 6.- Se realizaron los comentarios a las partes del código.
