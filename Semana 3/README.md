@@ -2,7 +2,7 @@ Evaluación semana 3 construcción de una aplicación de despacho utilizando len
 
 Objetivos:
 
-- Construir una aplicación que permita calcular el valor de despacho según los requerimientos solicitado por el cliente utilizando JAVA
+- Construir una aplicación que permita calcular el valor del despacho según los requerimientos solicitado por el cliente utilizando JAVA
   y que estos puedan ser visualizado posteriormente por el usuario.
 - Compilar el programa creado.
 - Poder ejecutarse desde la terminal.
