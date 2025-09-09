@@ -45,9 +45,3 @@ Historia de usuarios:
     Usuario debe ser capaz de ver los resultados obtenidos según los valores asignados por el mismo.
 
 
-
-7.- Se procedió a realizar la compilación.
-
-8.- Se probó y documento los resultados del trabajo.
-
-9.- Se genero informe final.
