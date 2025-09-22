@@ -19,10 +19,6 @@ class MainRegloc : AppCompatActivity() {
 
     private lateinit var fusedLocationProviderClient: FusedLocationProviderClient
     private lateinit var locationTv: TextView
-    //private lateinit var guardar: Button
-    //private lateinit var latitud: Location
-    //private lateinit var longitud: Location
-
     private lateinit var firebaseDatabase: FirebaseDatabase
     private lateinit var databaseReference: DatabaseReference
     private lateinit var persongps: PersonGps
@@ -34,9 +30,6 @@ class MainRegloc : AppCompatActivity() {
 
         locationTv = findViewById(R.id.locationTv)
         fusedLocationProviderClient = LocationServices.getFusedLocationProviderClient(this)
-        //guardar = findViewById(R.id.guardar)
-        //latitud = latitud
-        //longitud = longitud
         firebaseDatabase = FirebaseDatabase.getInstance()
         databaseReference = firebaseDatabase.getReference("semana6")
         persongps = PersonGps()
@@ -44,13 +37,6 @@ class MainRegloc : AppCompatActivity() {
 
         getCurrentLocation()
 
-        //guardar.setOnClickListener {
-        //val locationTv: String = locationTv.getText().toString()
-        //val latitud: Double = latitud.latitude.toDouble()
-        //val longitud: Double = longitud.longitude.toDouble()
-
-        //addDataToFirebase(locationTv)
-        //}
     }
 
     private fun getCurrentLocation() {
@@ -96,8 +82,6 @@ class MainRegloc : AppCompatActivity() {
 
     private fun addDataToFirebase (locationTv: String) {
     persongps.locationTv = locationTv
-    //persongps.latitud = latitud
-    // persongps.longitud = longitud
 
     databaseReference.push().setValue(persongps)
     .addOnSuccessListener {
