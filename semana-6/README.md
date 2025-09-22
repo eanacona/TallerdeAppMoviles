@@ -1,4 +1,4 @@
-Evaluación semana 5
+Evaluación semana 6
 
 Objetivos:
 
@@ -25,3 +25,4 @@ Historia de usuario:
  - El usuario debe poder ingresar a la aplicación una vez que el registro se realizó correctamente
  - El usuario debe poder acceder a un menú con las funcionalidades implementadas en la App
  - El usuario debe poder registrar y guardar los datos de su ubicación en la base de datos
+
